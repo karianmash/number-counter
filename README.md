@@ -7,4 +7,4 @@ Screenshot before the countdown
 
 Screenshot after the countdown
 
-![Screenshot](Screenshot0.png)
+![Screenshot](Screenshot1.png)

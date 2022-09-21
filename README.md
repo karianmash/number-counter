@@ -3,7 +3,7 @@
 Number counter designed using JavaScript, HTML and CSS
 Screenshot before the countdown
 
-![Screenshot](Count0.png)
+![Screenshot](count0.png)
 
 # Features
   - Increment a number
@@ -11,4 +11,4 @@ Screenshot before the countdown
 
 Screenshot after the countdown
 
-![Screenshot](Count1.png)
+![Screenshot](count1.png)
